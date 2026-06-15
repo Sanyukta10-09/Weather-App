@@ -32,7 +32,7 @@
 
 **Step 1** — Open `IntelliWeather.ipynb` in Google Colab
 
-**Step 2** — Get a free API key from [openweathermap.org](https://openweathermap.org)
+**Step 2** — Get an API key from [openweathermap.org](https://openweathermap.org)
 
 **Step 3** — Paste your key in Cell 0
 
